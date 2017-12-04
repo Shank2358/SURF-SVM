@@ -1,0 +1,14 @@
+﻿  stdafx.cpp
+  ImageClassification _SURF_SVM.cpp
+D:\opencv\build\include\opencv2/core/mat.hpp(2586): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\opencv\build\include\opencv2/core/persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\opencv\build\include\opencv2/core/utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\opencv\build\include\opencv2/core/utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\opencv\build\include\opencv2/imgproc.hpp(592): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+ImageClassification _SURF_SVM.cpp(165): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  正在生成代码
+  519 of 529 functions (98.1%) were compiled, the rest were copied from previous compilation.
+    18 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  ImageClassification _SURF_SVM.vcxproj -> E:\GitHub\ImageClassification\ImageClassification _SURF_SVM\x64\Release\ImageClassification _SURF_SVM.exe
